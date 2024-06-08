@@ -4,4 +4,4 @@
 
 Я люблю кошек.
 
-!(image.png)
+![](image.png)
